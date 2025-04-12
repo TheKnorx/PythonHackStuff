@@ -4,4 +4,4 @@
 | Decryption |  <-- -->  | nb.rzyixml6 |    
 |    Tool    |           |    =xll7    |
 .____________.           .-------------.
-Copyright (c) 2020-2030 by Pascal Vallaster.
+Copyright (c) 2020-2030 by ****************.
