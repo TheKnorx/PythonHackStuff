@@ -102,7 +102,7 @@ if __name__ == '__main__':
 
     if bHelpMenu is True:
         print(Fore.CYAN + """
-Simple-DDOS® - Copyright by Pascal Vallaster - version 5.9 - python-version = 3.9
+Simple-DDOS® - Copyright by **************** - version 5.9 - python-version = 3.9
 """ + Fore.RED + """
 Only use this script for good purpose! Do not use it for illegal activitis!
 I assume no responsibility for any damage caused by an attack of this script!
@@ -126,4 +126,4 @@ SimpleDDOS.py -ip 80.60.3.9 -port 21 -threads 50
 
 Tipp for pros: Use proxychains or other similar programms!
 
-Please report bugs to offsec16@gmail.com""")
+Please report bugs to ***************""")
