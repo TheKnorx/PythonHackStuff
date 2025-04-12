@@ -1,0 +1,7 @@
+.------------.           .-------------.
+| Welcome to |           | 9b7.lob=xl= |
+| Encryption |  <-- -->  |b6.rzyixml6= |          
+| Decryption |  <-- -->  | nb.rzyixml6 |    
+|    Tool    |           |    =xll7    |
+.____________.           .-------------.
+Copyright (c) 2020-2030 by Pascal Vallaster.
