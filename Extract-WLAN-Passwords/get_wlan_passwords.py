@@ -2,7 +2,7 @@
 # Originally by David Bombal, 2021    #
 # https://www.davidbombal.com         #
 # https://www.youtube.com/davidbombal #
-# Edited/Improved for german by Kn0rk5#
+# Edited/Improved for german by Kn0rx #
 ######################################
 
 import subprocess
